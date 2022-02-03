@@ -55,3 +55,4 @@ sudo cp /home/linux/daemon.json /etc/docker/daemon.json
 
 
 sudo systemctl restart docker
+sudo reboot
